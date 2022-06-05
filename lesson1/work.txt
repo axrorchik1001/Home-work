@@ -1,0 +1,15 @@
+============
+Vazifa №1
+============
+
+❓Valyuta konvertatsiya qiladigan dastur tuzish kerak bo'ladi, ya'ni dasturga UZS da valyuta kiritiladi, sayt pul miqdorini qabul qilib olib USD va Yevroda natijani chiqarib beradi
+
+- UZS ga nisbatan kurs quyidagicha
++ 1USD = 10654 UZS
++ 1EUR = 12674 UZS
+
+-  Dastur quyidagicha ishlaydi:
++ Sahifa ochilishi bilan promt orqali pul miqdori UZS da kiritiladi
+-  Miqdor kiritilgach, sahifa yuqiridagi kurs bo'yicha konvertatsiya qilib natijani yaxlitlangan va yaxlitlanmagan ko'rinishda saqlaydi.
+-  Natijani alertda chiqaradi.
+-  Topshiriqlarni github.com saytiga yuklab link'ini tashlash kerak bo'ladi
