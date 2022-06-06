@@ -1,0 +1,10 @@
+============
+Vazifa №3
+============
+❓ Sahifaga kirgan odamga birinchi bolib alertda hozirgi vaqtga doir ma'lumotlar ko'rsatilishi kerak.
+
+🟢 Sample Output: 
+       - Today is: Wednesday
+          Current Time is: 10 PM : 30 : 25
+
+🔸Topshiriqlar github.com ga qo'yilishi @mernperntasksbot ga aytilgan formatda yuborilishi kerak
