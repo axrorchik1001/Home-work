@@ -1,6 +1,7 @@
 let sorov = confirm("Siz son o'ylab topish oyiniga rozimisiz")
 if(!sorov){
     window.location.href = "https://google.com"
+    taxmin.preventDefault();
 }
 
 let trys = 0
@@ -9,6 +10,10 @@ let taxmin = prompt("20 gacha bo'lgan son toping")
 
 if(!taxmin){
     alert("biron son oylamasangiz bolmaydi")
+}
+if(taxmin > 20 ){
+    alert("siz katta son kiritdingiz! 20 gacha kiriting")
+    
 }
 
 if(Number(taxmin) != taxmin){
