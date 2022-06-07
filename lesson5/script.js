@@ -1,6 +1,6 @@
 let sorov = confirm("Siz son o'ylab topish oyiniga rozimisiz")
 if(!sorov){
-    window.location.href = "https://fulfiledu.uz"
+    window.location.href = "https://google.com"
 }
 
 let trys = 0
