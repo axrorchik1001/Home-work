@@ -1,0 +1,6 @@
+1️⃣ VIdeodagidek interaktiv menu qilish hamma li elementlar domda yasaladi for bilan aylantirib emas qolda 
+5 xil li yasab ulanadi, va eventlar videodagidek qoshiladi
+
+2️⃣ Password yozadigan input bo'ladi, inputda ko'z shaklida icon bo'ladi shu icon bosilganda parol ko'rinadigan 
+va qayta bosilsa *** chiqib turadigan qilinadi, inputni ozini type imkoniyatlaridan foydalanib
+
