@@ -1,0 +1,18 @@
+?? Darsda ko'rilganlarni takrorlash(o'zimiz shuni yasab ko'ramiz, dizaynlarini ozimizga yoqadigan qilib yasash bu ham githubga qo'shiladi)
+
+?? Lotin - Kiril, Kiril - Lotin - Kiril transliterator yasash
+?? Ikki xil funksiya tuziladi:
+       - Lotin - Kiril
+       - Kiril - Lotin
+?? Har bir funksiya transliteratsiya qilib chiqqan natijani return qilishi kerak
+
+?? Bootstrap ga o'xshash kutubxona tuzishga urinamiz, stillar va js da modal ga o'xshagan componentlar yaratamiz, eng kami bitta js component bo'lishi kerak
+?? Kamida bitta JS component bo'lishi kerak
+?? Stillarni o'zimiz yangichasini tuzishimiz mumkin
+?? Vazifaga github linkdan tashqari Tuzilgan kutubxonada qanday stillar va qanday js componentlar borligi haqida dokumentatsiya yozib tashlanadi 
+?? Kimda komponentlar eng boy bo'lsa darsda o'shani npm ga yuklaymiz, va qolganlar o'zi alohida yuklaydi
+?? Bootstrap da bo'lmagan componentlarniyam qo'shsak bo'ladi, o'zimizni fantaziyamizga ko'ra
+
+?? Ulgursak, leetcode.com saytidan easy bo'lgan algoritmlardan 5 ta ixtiyoriy tanlab yechish mumkin
+
+?? P/S: Ulgurmasak, Lotin Kiril Transliterator shart emas, o'zim darsda ko'rsatib beraman, hohlovchilar urinib ko'rsak bo'ladi
