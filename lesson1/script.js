@@ -2,7 +2,7 @@ let summ = prompt("Summ kiriting")*1
 
 const dollor = 10654;
 const yevro = 12674;
-//home1
+//home1wf
 let summDollor = summ/dollor;
 let summYevro = summ/yevro;
 
