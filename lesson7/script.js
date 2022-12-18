@@ -56,10 +56,10 @@
 // 🔸 Ikki argument qabul qiladigan funksiya tuziladi, birinchi argument sifatida sonlardan iborat array(nums), ikkinchi argument sifatida biron son(val).
 // ▪️ nums arrayidagi har bir val elementi topiladi va shu element o'rniga _ belgisi qo'yilishi kerak va yangi array qaytarilishi lozim
 
-function func(numbers, val){
-    return numbers.map(function(number){
-        return number === val ? "_" : number
+// function func(numbers, val){
+//     return numbers.map(function(number){
+//         return number === val ? "_" : number
         
-    })
-}
-console.log(func([20, 15, 34, 27], 15))   
+//     })
+// }
+// console.log(func([20, 15, 34, 27], 15))   
